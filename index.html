@@ -25,11 +25,56 @@
         <!-- Already specified in the charset above-->
 
         <!-- Cyber Security Note about JavaScript in Browsers-->
+
+        <style>
+            * {
+                box-sizing: border-box;
+                font-size:2vw;
+            }
+
+            //div {border: thin dotted black;}
+
+            .header {
+                border: 2px solid orange;
+                padding: 15px;
+                background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
+            } 
+
+            .menu {
+                width: 25%;
+            }
+
+            .main {
+                width: 50%;
+            }
+
+            .aside {
+                width: 25%;
+            }
+
+            .flexbox {
+                float: left;
+                padding: 15px;
+                border: 2px solid green;
+            }
+
+            .footer {
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                background-color: black;
+                color: white;
+                text-align: center;
+            }
+
+        </style>
+
         <noscript>Running JavaScript is not necessary in this HTML page ... FYI: your Feature to execute scripts is turned off</noscript>
 
     </head>
     <body>
-        <header><h1 style="font-size:4vw; text-align:center; color:crimson">Learning HTML</h1></header>
+        <header class="header"><h1 style="font-size:4vw; text-align:center; color:crimson">Learning HTML</h1></header>
         <nav>
             <header><h1 style="font-size;3vw; color:crimson">Navigation</h1></header>
             <section><h1 style="font-size;2vw; color:crimson">Page Hyperlinks</h1>
@@ -56,6 +101,7 @@
                 <li style="color:chartreuse">we learnt about viewports which makes the texts change size depending on the size of the window.</a>
                 <li style="color:chartreuse">we learnt div tags which shows you the line container (space for text in that line)</a>
             </ul>
+        <br><br><br><br><br><br>
         </main>
         <section></section>
         <article></article>
@@ -63,7 +109,7 @@
     </body>
 
 
-    <footer>
+    <footer class="footer">
         <Blockquote cite="https://www.rd.com/list/funniest-quotes-all-time/">
             <!-- Date Accessed 20220919 -->
         </Blockquote>
