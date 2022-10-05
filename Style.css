@@ -1,5 +1,27 @@
-header {}
-menu {}
-main {}
-aside {}
-footer {}
+header {
+    //border: 2px solid orange;
+    padding: 15px;
+    background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
+}
+
+menu {
+    width: 25%;
+}
+
+main {
+    width: 50%;
+}
+
+aside {
+    width: 25%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
+}
