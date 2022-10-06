@@ -1,5 +1,5 @@
 header {
-    border: 2px solid white;
+    //border: 2px solid white;
     padding: 15px;
 }
 
@@ -42,5 +42,5 @@ footer {
 }
 
 div {
-    border: thick dotted white
+    border: 2px thick dotted white
 }
