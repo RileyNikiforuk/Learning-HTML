@@ -1,6 +1,9 @@
 header {
     //border: 2px solid orange;
     padding: 15px;
+}
+
+body {
     background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
 }
 
@@ -25,7 +28,7 @@ aside {
 }
 
 article {
-    
+
 }
 
 footer {
@@ -35,5 +38,5 @@ footer {
     width: 100%;
     color: white;
     text-align: center;
-    background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
+    background-image: black;
 }
