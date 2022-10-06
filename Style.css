@@ -1,22 +1,25 @@
 header {
-    //border: 2px solid white;
+    border: 2px solid white;
     padding: 15px;
 }
 
 body {
+    border: 2px solid white;
     background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
 }
 
 nav {
-
+    border: 2px solid white;
 }
 
 menu {
     width: 25%;
+    border: 2px solid white;
 }
 
 main {
     width: 50%;
+    border: 2px solid white;
 }
 
 section {
@@ -25,10 +28,11 @@ section {
 
 aside {
     width: 25%;
+    border: 2px solid white;
 }
 
 article {
-
+    border: 2px solid white;
 }
 
 footer {
@@ -39,8 +43,10 @@ footer {
     color: white;
     text-align: center;
     background: black;
+    border: 2px solid white;
 }
 
 div {
-    border: 2px thick dotted white
+    border: 2px thick dotted white;
+    padding: 15px;
 }
