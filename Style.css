@@ -4,6 +4,10 @@ header {
     background-image: url(https://cutewallpaper.org/27/black-and-red-galaxy-wallpaper/1896216165.jpg);
 }
 
+nav {
+
+}
+
 menu {
     width: 25%;
 }
@@ -12,8 +16,16 @@ main {
     width: 50%;
 }
 
+section {
+
+}
+
 aside {
     width: 25%;
+}
+
+article {
+    
 }
 
 footer {
